@@ -5,3 +5,5 @@
 temp_processed_files/X_train
 
 *.jpg
+
+/.ipynb_checkpoints/*
