@@ -1,0 +1,7 @@
+/dataset/*
+
+/temp_processed_files/*
+
+temp_processed_files/X_train
+
+*.jpg
