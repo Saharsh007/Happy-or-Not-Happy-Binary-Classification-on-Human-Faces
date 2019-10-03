@@ -1,8 +1,9 @@
 /dataset/*
 
-/temp_processed_files/*
+/temp_data_file/*
 
-temp_processed_files/X_train
+temp_data_file/X_train
+temp_data_file/Y_train
 
 *.jpg
 
