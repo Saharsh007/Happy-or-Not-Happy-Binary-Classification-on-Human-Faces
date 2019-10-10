@@ -10,6 +10,7 @@
 - OpenCV
 - pandas
 - numpy
+- Matplotlib
 
 
 ### Architecture
